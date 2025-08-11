@@ -18,5 +18,5 @@ Este programa muestra cómo utilizar enumeraciones y arreglos para desplegar lis
 5. El menú se repite hasta que el usuario selecciona salir.
 
 
-## Vista en Consola
+## Interfaz 
 <img width="457" height="505" alt="image" src="https://github.com/user-attachments/assets/45da03f9-73c4-4824-9aa6-396deda82298" />
