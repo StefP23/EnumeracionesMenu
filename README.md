@@ -2,7 +2,7 @@
 
 Este programa muestra cómo utilizar enumeraciones y arreglos para desplegar listas de meses, días y estaciones, permitiendo al usuario elegir el orden de visualización.
 
-##💻 Características
+## 💻 Características
 
 - Muestra los meses del año, días de la semana o estaciones.
 - Permite elegir entre orden normal o inverso.
