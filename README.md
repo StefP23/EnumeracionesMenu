@@ -1,2 +1,10 @@
-# EnumeracionesMenu
-El programa muestra un menú interactivo en consola que permite visualizar:  Los meses del año Los días de la semana Las estaciones del año Para cada opción, el usuario puede elegir si desea ver la lista en orden normal o en orden inverso.
+# Menú de Enumeraciones en C++
+
+Este programa en C++ muestra cómo utilizar enumeraciones y arreglos para desplegar listas de meses, días y estaciones, permitiendo al usuario elegir el orden de visualización.
+
+## Características
+
+- Muestra los meses del año, días de la semana o estaciones.
+- Permite elegir entre orden normal o inverso.
+- Uso de enumeraciones y arreglos de strings.
+- Menú interactivo en consola.
